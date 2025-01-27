@@ -48,6 +48,8 @@ header {
     border-radius: 28px;
     border: black 3px solid;
     font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
 }
 #bt2{
     background-color: black;
@@ -56,6 +58,8 @@ header {
     width: 300px;
     border-radius: 28px;
     font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
 }
 
 .section-conteiner {
