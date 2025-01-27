@@ -47,6 +47,7 @@ header {
     height: 55px;
     border-radius: 28px;
     border: black 3px solid;
+    font-size: large;
 }
 #bt2{
     background-color: black;
@@ -54,6 +55,7 @@ header {
     height: 55px;
     width: 300px;
     border-radius: 28px;
+    font-size: large;
 }
 
 .section-conteiner {
