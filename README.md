@@ -17,4 +17,4 @@ Foi um desafio, que me permitiu aprender sobre como construir **layouts limpos**
 
 Espero que goste do resultado! 😄
 
-[Acesse pelo link: DISCORD](https://discord.com)
+[Acesse pelo link: DISCORD](https://alvaroportelinha.github.io/R-plica-do-Discord/)
