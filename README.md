@@ -1,13 +1,13 @@
 # **Réplica do Discord** 🎮💬
 
 ## Descrição 🚀
-Este projeto é uma réplica da página de acesso à plataforma de **Discord**!  
-Criado como parte do **Desafio 004** da DIO, a ideia é recriar a interface do Discord de forma **responsiva** e **funcional**, aprendendo sobre design de interfaces e usabilidade no processo. 🎨✨
+Este projeto é uma réplica da página de acesso à plataforma do **Discord**!  
+Criado como parte do **Desafio 004 flexbox e grid.** da DIO, a ideia é recriar a interface do Discord de forma **responsiva** e **funcional**, aprendendo sobre design de interfaces e usabilidade no processo. 🎨✨
 
 Foi um desafio, que me permitiu aprender sobre como construir **layouts limpos**, **modernos** e **responsivos**.
 
 ## Funcionalidades 💡
-- **Layout Responsivo 📱**: O site se adapta à maioria das telas disponíveis, seja no desktop ou no celular.
+- **Layout Responsivo 📱**: O site se adapta à maioria das telas disponíveis, seja no desktop ou no smartphone.
 
 ## Tecnologias Usadas 🛠️
 - **HTML5**: A base de tudo! 📄
